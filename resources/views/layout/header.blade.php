@@ -16,7 +16,7 @@
     <header class="bg-gray-700 shadow">
         <div class=" container mx-auto flex justify-between items-center py-4 px-6">
             <div class="flex items-center">
-            <img src="{{ asset('images/default_logo.png') }}"  class="h-10" height="50" alt="Default Image">
+            <img src="{{ asset('images/logo_upt.png') }}"  class="h-10" height="50" alt="Default Image">
                 <!-- <img alt="Universitas Malikussaleh Logo" class="h-10" height="50" src="https://storage.googleapis.com/a1aa/image/sZklJmC26TbSMZW5SCzn2h7uB1CKLwgFzacTZGlXKWV3Sh5E.jpg" width="50"/> -->
                 <span class="ml-3 text-xl font-bold text-white "><a href="UptBahasa">UPT bahasa</a></span>
             </div>
